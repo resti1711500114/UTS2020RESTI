@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913040742643",
+    "firebase_url": "https://utsresti.firebaseio.com",
+    "project_id": "utsresti",
+    "storage_bucket": "utsresti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913040742643:android:b3b94f208a868723e87f86",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500114_resti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913040742643-f2o550ac2mvp2aaeoqu86t7tg0hhschv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHMa7j-pFobQrzqZVcqwQ-qfySZNzIMlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913040742643-f2o550ac2mvp2aaeoqu86t7tg0hhschv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
